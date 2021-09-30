@@ -15,11 +15,13 @@ I am interested in Graph Neural Networks, Drug Discovery, and Machine Learning S
 
 * [Local Augmentation for Graph Neural Networks](https://arxiv.org/abs/2109.03856)  
   **Songtao Liu**, Hanze Dong, Lanqing Li, Tingyang Xu, Yu Rong, Peilin Zhao, Junzhou Huang, Dinghao Wu  
-  *arXiv preprint:2109.0385*, 2021 [[pdf]](https://arxiv.org/pdf/2109.03856.pdf) [[code]](https://github.com/Soughing0823/LAGNN)
+  *arXiv preprint:2109.0385*, 2021  
+  [[pdf]](https://arxiv.org/pdf/2109.03856.pdf) [[code]](https://github.com/Soughing0823/LAGNN)
 
 * [Higher-order Weighted Graph Convolutional Networks](https://arxiv.org/abs/1911.04129)  
   **Songtao Liu**, Lingwei Chen, Hanze Dong, Zihao Wang, Dinghao Wu, Zengfeng Huang  
-  *arXiv preprint:1911.04129*, 2019 [[pdf]](https://arxiv.org/pdf/1911.04129.pdf)
+  *arXiv preprint:1911.04129*, 2019 
+  [[pdf]](https://arxiv.org/pdf/1911.04129.pdf)
 
 
 
