@@ -20,7 +20,7 @@ I am interested in Graph Neural Networks, Drug Discovery, and Machine Learning S
 
 * [Higher-order Weighted Graph Convolutional Networks](https://arxiv.org/abs/1911.04129)  
   **Songtao Liu**, Lingwei Chen, Hanze Dong, Zihao Wang, Dinghao Wu, Zengfeng Huang  
-  *arXiv preprint:1911.04129*, 2019 
+  *arXiv preprint:1911.04129*, 2019  
   [[pdf]](https://arxiv.org/pdf/1911.04129.pdf)
 
 
