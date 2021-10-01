@@ -8,7 +8,7 @@
 Emails: skl5761@psu.edu; stliu15@fudan.edu.cn  
 [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=OPZ_9L4AAAAJ) [[Github]](https://github.com/Soughing0823)
 
-I am currently a Ph.D. student advised by [Dinghao Wu](https://faculty.ist.psu.edu/wu/) in the College of Information Sciences and Technology at Penn State.  I obtained my Bachelor of Science advised by [Zengfeng Huang](https://cse.hkust.edu.hk/~huangzf/) from School of Data Science at Fudan University in China.
+I am currently a Ph.D. student advised by [Dinghao Wu](https://faculty.ist.psu.edu/wu/) in the College of Information Sciences and Technology at Penn State. And I obtained my Bachelor of Science advised by [Zengfeng Huang](https://cse.hkust.edu.hk/~huangzf/) from School of Data Science at Fudan University in China.
 
 I am interested in Graph Neural Networks, Drug Discovery, and Machine Learning Security. 
 
