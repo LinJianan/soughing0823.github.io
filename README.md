@@ -1,4 +1,4 @@
-<div style="line-height:10px">
+<div style="line-height:5px">
   <div>
     <p align="center"><font size="7"><B>Songtao Liu</B></font></p>
     <hr style="height:1.5px;border-width:0;color:gray;background-color:gray">
